@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BullHunter3
+- 👋 Hi, I’m Clay
 - 👀 I’m interested in Programming and Software Engineering
 - 🌱 I’m currently learning about implementing Highly Composite Number algorithms in various languages
 - 💞️ I’m looking to collaborate on ...
